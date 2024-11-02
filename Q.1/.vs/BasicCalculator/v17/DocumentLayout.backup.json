@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ariba\\OneDrive\\Desktop\\.NET\\BasicCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12148933-788B-4927-87E1-ACBC21F30E9F}|BasicCalculator\\BasicCalculator.vbproj|c:\\users\\ariba\\onedrive\\desktop\\.net\\basiccalculator\\basiccalculator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{12148933-788B-4927-87E1-ACBC21F30E9F}|BasicCalculator\\BasicCalculator.vbproj|solutionrelative:basiccalculator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12148933-788B-4927-87E1-ACBC21F30E9F}|BasicCalculator\\BasicCalculator.vbproj|c:\\users\\ariba\\onedrive\\desktop\\.net\\basiccalculator\\basiccalculator\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{12148933-788B-4927-87E1-ACBC21F30E9F}|BasicCalculator\\BasicCalculator.vbproj|solutionrelative:basiccalculator\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12148933-788B-4927-87E1-ACBC21F30E9F}|BasicCalculator\\BasicCalculator.vbproj|c:\\users\\ariba\\onedrive\\desktop\\.net\\basiccalculator\\basiccalculator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{12148933-788B-4927-87E1-ACBC21F30E9F}|BasicCalculator\\BasicCalculator.vbproj|solutionrelative:basiccalculator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ariba\\OneDrive\\Desktop\\.NET\\BasicCalculator\\BasicCalculator\\Form1.vb",
+              "RelativeDocumentMoniker": "BasicCalculator\\Form1.vb",
+              "ToolTip": "C:\\Users\\ariba\\OneDrive\\Desktop\\.NET\\BasicCalculator\\BasicCalculator\\Form1.vb [Design]",
+              "RelativeToolTip": "BasicCalculator\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-02T12:25:04.677Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\ariba\\OneDrive\\Desktop\\.NET\\BasicCalculator\\BasicCalculator\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "BasicCalculator\\Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\ariba\\OneDrive\\Desktop\\.NET\\BasicCalculator\\BasicCalculator\\Form1.Designer.vb",
+              "RelativeToolTip": "BasicCalculator\\Form1.Designer.vb",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-02T12:24:50.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ariba\\OneDrive\\Desktop\\.NET\\BasicCalculator\\BasicCalculator\\Form1.vb",
+              "RelativeDocumentMoniker": "BasicCalculator\\Form1.vb",
+              "ToolTip": "C:\\Users\\ariba\\OneDrive\\Desktop\\.NET\\BasicCalculator\\BasicCalculator\\Form1.vb",
+              "RelativeToolTip": "BasicCalculator\\Form1.vb",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwBwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-02T12:19:31.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
