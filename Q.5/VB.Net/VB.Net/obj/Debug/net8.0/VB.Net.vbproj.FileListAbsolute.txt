@@ -12,3 +12,4 @@ C:\Users\ariba\OneDrive\Desktop\.NET\Q.5\VB.Net\VB.Net\obj\Debug\net8.0\refint\V
 C:\Users\ariba\OneDrive\Desktop\.NET\Q.5\VB.Net\VB.Net\obj\Debug\net8.0\VB.Net.pdb
 C:\Users\ariba\OneDrive\Desktop\.NET\Q.5\VB.Net\VB.Net\obj\Debug\net8.0\VB.Net.genruntimeconfig.cache
 C:\Users\ariba\OneDrive\Desktop\.NET\Q.5\VB.Net\VB.Net\obj\Debug\net8.0\ref\VB.Net.dll
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.5\VB.Net\VB.Net\obj\Debug\net8.0\VB.Net.sourcelink.json

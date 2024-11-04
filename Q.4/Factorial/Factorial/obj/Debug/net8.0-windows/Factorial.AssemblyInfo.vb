@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Factorial"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+403d81e91553e55964ca9cb44a4d6f15952005b1"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97e8f190034a11c527086cc2839766356572f371"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Factorial"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Factorial"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

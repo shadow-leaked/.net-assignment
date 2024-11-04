@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("VB.Net"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7a01f9b7341c59a6d920584af0334590003a092"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97e8f190034a11c527086cc2839766356572f371"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("VB.Net"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("VB.Net"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

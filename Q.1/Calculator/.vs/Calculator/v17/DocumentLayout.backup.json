@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ariba\\OneDrive\\Desktop\\.NET\\Q.1\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{644B953F-3410-4E66-8E07-45243281F9B9}|Calculator\\Calculator.vbproj|c:\\users\\ariba\\onedrive\\desktop\\.net\\q.1\\calculator\\calculator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{644B953F-3410-4E66-8E07-45243281F9B9}|Calculator\\Calculator.vbproj|solutionrelative:calculator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644B953F-3410-4E66-8E07-45243281F9B9}|Calculator\\Calculator.vbproj|c:\\users\\ariba\\onedrive\\desktop\\.net\\q.1\\calculator\\calculator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{644B953F-3410-4E66-8E07-45243281F9B9}|Calculator\\Calculator.vbproj|solutionrelative:calculator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ariba\\OneDrive\\Desktop\\.NET\\Q.1\\Calculator\\Calculator\\Form1.vb",
+              "RelativeDocumentMoniker": "Calculator\\Form1.vb",
+              "ToolTip": "C:\\Users\\ariba\\OneDrive\\Desktop\\.NET\\Q.1\\Calculator\\Calculator\\Form1.vb*",
+              "RelativeToolTip": "Calculator\\Form1.vb*",
+              "ViewState": "AgIAABsAAAAAAAAAAAA8wDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T11:00:16.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ariba\\OneDrive\\Desktop\\.NET\\Q.1\\Calculator\\Calculator\\Form1.vb",
+              "RelativeDocumentMoniker": "Calculator\\Form1.vb",
+              "ToolTip": "C:\\Users\\ariba\\OneDrive\\Desktop\\.NET\\Q.1\\Calculator\\Calculator\\Form1.vb [Design]*",
+              "RelativeToolTip": "Calculator\\Form1.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T10:58:36.689Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

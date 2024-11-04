@@ -1,0 +1,17 @@
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.1\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.exe
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.1\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.deps.json
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.1\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.runtimeconfig.json
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.1\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.dll
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.1\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.pdb
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.1\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.Form1.resources
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.1\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.vbproj.GenerateResource.cache
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.1\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.1\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.1\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfo.vb
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.1\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.1\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.sourcelink.json
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.1\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.dll
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.1\Calculator\Calculator\obj\Debug\net8.0-windows\refint\Calculator.dll
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.1\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.pdb
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.1\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.genruntimeconfig.cache
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.1\Calculator\Calculator\obj\Debug\net8.0-windows\ref\Calculator.dll
