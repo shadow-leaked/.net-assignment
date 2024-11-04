@@ -1,0 +1,17 @@
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.3\Square series\Square series\bin\Debug\net8.0-windows\Square series.exe
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.3\Square series\Square series\bin\Debug\net8.0-windows\Square series.deps.json
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.3\Square series\Square series\bin\Debug\net8.0-windows\Square series.runtimeconfig.json
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.3\Square series\Square series\bin\Debug\net8.0-windows\Square series.dll
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.3\Square series\Square series\bin\Debug\net8.0-windows\Square series.pdb
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.3\Square series\Square series\obj\Debug\net8.0-windows\Square_series.Form1.resources
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.3\Square series\Square series\obj\Debug\net8.0-windows\Square series.vbproj.GenerateResource.cache
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.3\Square series\Square series\obj\Debug\net8.0-windows\Square series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.3\Square series\Square series\obj\Debug\net8.0-windows\Square series.AssemblyInfoInputs.cache
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.3\Square series\Square series\obj\Debug\net8.0-windows\Square series.AssemblyInfo.vb
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.3\Square series\Square series\obj\Debug\net8.0-windows\Square series.vbproj.CoreCompileInputs.cache
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.3\Square series\Square series\obj\Debug\net8.0-windows\Square series.sourcelink.json
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.3\Square series\Square series\obj\Debug\net8.0-windows\Square series.dll
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.3\Square series\Square series\obj\Debug\net8.0-windows\refint\Square series.dll
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.3\Square series\Square series\obj\Debug\net8.0-windows\Square series.pdb
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.3\Square series\Square series\obj\Debug\net8.0-windows\Square series.genruntimeconfig.cache
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.3\Square series\Square series\obj\Debug\net8.0-windows\ref\Square series.dll

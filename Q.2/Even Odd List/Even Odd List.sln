@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Even Odd List", "Even Odd List\Even Odd List.vbproj", "{6BBF36EC-A7EB-4982-9C8C-C625E4106813}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BBF36EC-A7EB-4982-9C8C-C625E4106813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BBF36EC-A7EB-4982-9C8C-C625E4106813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BBF36EC-A7EB-4982-9C8C-C625E4106813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BBF36EC-A7EB-4982-9C8C-C625E4106813}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A58897A2-793A-431A-BA36-764D18E20AB5}
+	EndGlobalSection
+EndGlobal

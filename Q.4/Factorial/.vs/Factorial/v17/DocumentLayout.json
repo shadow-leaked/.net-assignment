@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ariba\\OneDrive\\Desktop\\.NET\\Q.4\\Factorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB9FB89-B20C-4F92-8980-1B3897CA350E}|Factorial\\Factorial.vbproj|c:\\users\\ariba\\onedrive\\desktop\\.net\\q.4\\factorial\\factorial\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0EB9FB89-B20C-4F92-8980-1B3897CA350E}|Factorial\\Factorial.vbproj|solutionrelative:factorial\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB9FB89-B20C-4F92-8980-1B3897CA350E}|Factorial\\Factorial.vbproj|c:\\users\\ariba\\onedrive\\desktop\\.net\\q.4\\factorial\\factorial\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0EB9FB89-B20C-4F92-8980-1B3897CA350E}|Factorial\\Factorial.vbproj|solutionrelative:factorial\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ariba\\OneDrive\\Desktop\\.NET\\Q.4\\Factorial\\Factorial\\Form1.vb",
+              "RelativeDocumentMoniker": "Factorial\\Form1.vb",
+              "ToolTip": "C:\\Users\\ariba\\OneDrive\\Desktop\\.NET\\Q.4\\Factorial\\Factorial\\Form1.vb",
+              "RelativeToolTip": "Factorial\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T10:20:49.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ariba\\OneDrive\\Desktop\\.NET\\Q.4\\Factorial\\Factorial\\Form1.vb",
+              "RelativeDocumentMoniker": "Factorial\\Form1.vb",
+              "ToolTip": "C:\\Users\\ariba\\OneDrive\\Desktop\\.NET\\Q.4\\Factorial\\Factorial\\Form1.vb [Design]",
+              "RelativeToolTip": "Factorial\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T10:16:58.259Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

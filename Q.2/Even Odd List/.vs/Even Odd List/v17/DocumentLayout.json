@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ariba\\OneDrive\\Desktop\\.NET\\Q.2\\Even Odd List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBF36EC-A7EB-4982-9C8C-C625E4106813}|Even Odd List\\Even Odd List.vbproj|c:\\users\\ariba\\onedrive\\desktop\\.net\\q.2\\even odd list\\even odd list\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6BBF36EC-A7EB-4982-9C8C-C625E4106813}|Even Odd List\\Even Odd List.vbproj|solutionrelative:even odd list\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBF36EC-A7EB-4982-9C8C-C625E4106813}|Even Odd List\\Even Odd List.vbproj|c:\\users\\ariba\\onedrive\\desktop\\.net\\q.2\\even odd list\\even odd list\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6BBF36EC-A7EB-4982-9C8C-C625E4106813}|Even Odd List\\Even Odd List.vbproj|solutionrelative:even odd list\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBF36EC-A7EB-4982-9C8C-C625E4106813}|Even Odd List\\Even Odd List.vbproj|c:\\users\\ariba\\onedrive\\desktop\\.net\\q.2\\even odd list\\even odd list\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6BBF36EC-A7EB-4982-9C8C-C625E4106813}|Even Odd List\\Even Odd List.vbproj|solutionrelative:even odd list\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ariba\\OneDrive\\Desktop\\.NET\\Q.2\\Even Odd List\\Even Odd List\\Form1.vb",
+              "RelativeDocumentMoniker": "Even Odd List\\Form1.vb",
+              "ToolTip": "C:\\Users\\ariba\\OneDrive\\Desktop\\.NET\\Q.2\\Even Odd List\\Even Odd List\\Form1.vb",
+              "RelativeToolTip": "Even Odd List\\Form1.vb",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T10:06:07.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\ariba\\OneDrive\\Desktop\\.NET\\Q.2\\Even Odd List\\Even Odd List\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Even Odd List\\Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\ariba\\OneDrive\\Desktop\\.NET\\Q.2\\Even Odd List\\Even Odd List\\Form1.Designer.vb",
+              "RelativeToolTip": "Even Odd List\\Form1.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T09:58:44.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ariba\\OneDrive\\Desktop\\.NET\\Q.2\\Even Odd List\\Even Odd List\\Form1.vb",
+              "RelativeDocumentMoniker": "Even Odd List\\Form1.vb",
+              "ToolTip": "C:\\Users\\ariba\\OneDrive\\Desktop\\.NET\\Q.2\\Even Odd List\\Even Odd List\\Form1.vb [Design]",
+              "RelativeToolTip": "Even Odd List\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T09:58:56.288Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

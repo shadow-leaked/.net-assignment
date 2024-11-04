@@ -1,0 +1,17 @@
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.2\Even Odd List\Even Odd List\bin\Debug\net8.0-windows\Even Odd List.exe
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.2\Even Odd List\Even Odd List\bin\Debug\net8.0-windows\Even Odd List.deps.json
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.2\Even Odd List\Even Odd List\bin\Debug\net8.0-windows\Even Odd List.runtimeconfig.json
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.2\Even Odd List\Even Odd List\bin\Debug\net8.0-windows\Even Odd List.dll
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.2\Even Odd List\Even Odd List\bin\Debug\net8.0-windows\Even Odd List.pdb
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.2\Even Odd List\Even Odd List\obj\Debug\net8.0-windows\Even_Odd_List.Form1.resources
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.2\Even Odd List\Even Odd List\obj\Debug\net8.0-windows\Even Odd List.vbproj.GenerateResource.cache
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.2\Even Odd List\Even Odd List\obj\Debug\net8.0-windows\Even Odd List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.2\Even Odd List\Even Odd List\obj\Debug\net8.0-windows\Even Odd List.AssemblyInfoInputs.cache
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.2\Even Odd List\Even Odd List\obj\Debug\net8.0-windows\Even Odd List.AssemblyInfo.vb
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.2\Even Odd List\Even Odd List\obj\Debug\net8.0-windows\Even Odd List.vbproj.CoreCompileInputs.cache
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.2\Even Odd List\Even Odd List\obj\Debug\net8.0-windows\Even Odd List.sourcelink.json
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.2\Even Odd List\Even Odd List\obj\Debug\net8.0-windows\Even Odd List.dll
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.2\Even Odd List\Even Odd List\obj\Debug\net8.0-windows\refint\Even Odd List.dll
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.2\Even Odd List\Even Odd List\obj\Debug\net8.0-windows\Even Odd List.pdb
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.2\Even Odd List\Even Odd List\obj\Debug\net8.0-windows\Even Odd List.genruntimeconfig.cache
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.2\Even Odd List\Even Odd List\obj\Debug\net8.0-windows\ref\Even Odd List.dll

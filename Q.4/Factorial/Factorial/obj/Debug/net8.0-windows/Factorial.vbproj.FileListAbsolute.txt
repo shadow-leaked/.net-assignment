@@ -1,0 +1,17 @@
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.4\Factorial\Factorial\bin\Debug\net8.0-windows\Factorial.exe
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.4\Factorial\Factorial\bin\Debug\net8.0-windows\Factorial.deps.json
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.4\Factorial\Factorial\bin\Debug\net8.0-windows\Factorial.runtimeconfig.json
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.4\Factorial\Factorial\bin\Debug\net8.0-windows\Factorial.dll
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.4\Factorial\Factorial\bin\Debug\net8.0-windows\Factorial.pdb
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.4\Factorial\Factorial\obj\Debug\net8.0-windows\Factorial.Form1.resources
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.4\Factorial\Factorial\obj\Debug\net8.0-windows\Factorial.vbproj.GenerateResource.cache
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.4\Factorial\Factorial\obj\Debug\net8.0-windows\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.4\Factorial\Factorial\obj\Debug\net8.0-windows\Factorial.AssemblyInfoInputs.cache
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.4\Factorial\Factorial\obj\Debug\net8.0-windows\Factorial.AssemblyInfo.vb
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.4\Factorial\Factorial\obj\Debug\net8.0-windows\Factorial.vbproj.CoreCompileInputs.cache
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.4\Factorial\Factorial\obj\Debug\net8.0-windows\Factorial.sourcelink.json
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.4\Factorial\Factorial\obj\Debug\net8.0-windows\Factorial.dll
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.4\Factorial\Factorial\obj\Debug\net8.0-windows\refint\Factorial.dll
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.4\Factorial\Factorial\obj\Debug\net8.0-windows\Factorial.pdb
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.4\Factorial\Factorial\obj\Debug\net8.0-windows\Factorial.genruntimeconfig.cache
+C:\Users\ariba\OneDrive\Desktop\.NET\Q.4\Factorial\Factorial\obj\Debug\net8.0-windows\ref\Factorial.dll
